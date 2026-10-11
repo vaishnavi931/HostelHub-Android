@@ -19,6 +19,15 @@ HostelHub is an Android application designed to support hostel-related managemen
 - **Database:** MySQL / MariaDB
 - **API Testing:** Postman
 
+## Demo Videos
+
+Student Side
+
+▶ Watch HostelHub Student Side Demo
+
+Admin Side
+
+▶ Watch HostelHub Admin Side Demo
 
 ## Project Structure
 
@@ -36,10 +45,7 @@ HostelHub is an Android application designed to support hostel-related managemen
 5. Update the API URL in the Android app to match the backend server.
 6. Run the app on an emulator or Android device.
 
-## Author
-
-Vaishnavi Pardeshi
-
 ## Note
 
 The PHP backend and database must be configured separately for features that depend on the server.
+
