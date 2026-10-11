@@ -21,13 +21,13 @@ HostelHub is an Android application designed to support hostel-related managemen
 
 ## Demo Videos
 
-Student Side
+### Student Side
 
-▶ Watch HostelHub Student Side Demo
+[▶ Watch Student Side Demo](https://drive.google.com/file/d/1ZzBLwnr5nTVYfSGnKqvUQeX9rLiDsJzB/view)
 
-Admin Side
+### Admin Side
 
-▶ Watch HostelHub Admin Side Demo
+[▶ Watch Admin Side Demo](https://drive.google.com/file/d/1ffUG1EKxyFEMuijgsy9h-s3gdG1EEgPr/view)
 
 ## Project Structure
 
